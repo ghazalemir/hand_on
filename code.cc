@@ -6,6 +6,8 @@ int main(){
 	std::cout<<"ghashang";
 
 	std::cout<<"modification";
+        
+	std::cout<<"mir";
 
 
 
